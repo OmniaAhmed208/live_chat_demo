@@ -1,0 +1,3 @@
+https://github.com/GetStream/stream-laravel
+https://github.com/munafio/chatify/tree/master
+https://github.com/musonza/chat/tree/master
